@@ -1,2 +1,2 @@
 # x-men-szpc
- <a>Projeto X-Men<img src="https://jpetterson88.github.io/x-men-szpc/"></a>
+ <a href="https://jpetterson88.github.io/x-men-szpc/" target="_blank">Projeto X-Men</a>
